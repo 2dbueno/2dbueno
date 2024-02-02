@@ -24,7 +24,6 @@ Olá, eu sou o Eduardo Bueno, tenho 18 anos e atualmente estou cursando Analise 
 Este repositório  será um espaço onde vou compartilhar projetos e experiências de aprendizado ao longo da minha jornada. Sinta-se à vontade para explorar e acompanhar meu progresso!
 
 <br><br><br>
-
 <div align="center" style="display: inline">
    <a href="https://github.com/2dbueno">
    <div style="display: inline_block">
@@ -47,12 +46,11 @@ Este repositório  será um espaço onde vou compartilhar projetos e experiênci
   <a href = "mailto:eduardonunesbueno56@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-nunes-bueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2dbueno/2dbueno/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2dbueno/2dbueno/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2dbueno/2dbueno/output/github-contribution-grid-snake.svg">
 </picture>
   
+
 </div>
-<br><br><br><br>
-Seja bem-vindo(a)!   |ㅤWelcome!
