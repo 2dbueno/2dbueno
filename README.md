@@ -22,29 +22,30 @@ Olá, eu sou o Eduardo Bueno, tenho 18 anos e atualmente estou cursando Analise 
 
 Este repositório  será um espaço onde vou compartilhar projetos e experiências de aprendizado ao longo da minha jornada. Sinta-se à vontade para explorar e acompanhar meu progresso!
 
-<br><br>
-
-##
 <!--SOCIAIS-->
 <div>
-   <section align="center">
-         <a align="center"href="https://instagram.com/ebueno99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-         <a href = "mailto:eduardonunesbueno56@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <section align="center" style="display: inline">
+         <p><b>Entre em contato comigo!</b></p>
+         <a href="https://instagram.com/ebueno99" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+         <a href="mailto:eduardonunesbueno56@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
          <a href="https://www.linkedin.com/in/eduardo-nunes-bueno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-      </section>
-</div>
-
-<!--GIT STATE AND MOST LANGUAGES-->
-<div align="center" style="display: inline">
-   <a href="https://github.com/2dbueno">
-   <div style="display: inline_block">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2dbueno&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/> 
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=2dbueno&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
-   </div>
+   </section>
 </div>
 
 ##
-<!--COBRINHA-->
+
+<!--GIT STATE AND MOST LANGUAGES-->
+<div>
+   <section align="center" style="display: inline">
+   <a href="https://github.com/2dbueno">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2dbueno&layout=compact&langs_count=7&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2dbueno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   </section>
+</div>
+
+##
+
+<!--SNAKE-->
 <div align="center" style="display: inline">
    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2dbueno/2dbueno/output/github-contribution-grid-snake-dark.svg">
