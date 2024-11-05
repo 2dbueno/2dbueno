@@ -7,7 +7,7 @@
 <br />
 
 ### Hard Skills:
-- 🐍 Python: Mastering the hottest programming language.
+- 🐍 Python: Currently learning and practicing Python.
 - 🌐 Django: Crafting elegant, efficient web apps.
 - 🎨 Figma: Designing intuitive, responsive UIs.
 - 📃 UML: Modeling complexity with clarity.
