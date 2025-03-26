@@ -1,21 +1,16 @@
-<div align="center"> 
-<a href = "mailto:eduardonunesbueno56@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/eduardo-nunes-bueno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://www.instagram.com/2dbueno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
+# 💫 About Me:
+👨‍💻Currently working as FiveM developer<br>💯Full Stack developer
 
-<br />
 
-### Hard Skills:
-- 🐍 Python: Currently learning and practicing Python.
-- 🌐 Django: Crafting elegant, efficient web apps.
-- 🎨 Figma: Designing intuitive, responsive UIs.
-- 📃 UML: Modeling complexity with clarity.
-- 📊 Power BI: Turning data into actionable insights.
-- 🚀 Scrum: Agile Scrum Master with Git expertise. Improved team performance and project delivery.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/2dbueno) 
 
-## Soft Skills:
-- 🌱 Adaptability: I have the ability to quickly adjust to new tools, technologies, and scope changes.
-- 📚 Willingness to Learn: Passionate about new knowledge, I stay updated with the latest technologies to deliver innovative and efficient solutions.
-- 🤝 Teamwork: I value collaboration and believe that the success of a project is achieved through a collective effort.
-- 🗣️ Effective Communication: I can convey technical ideas clearly and concisely, facilitating understanding among team members and stakeholders.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=2dbueno&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=2dbueno&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=2dbueno&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
